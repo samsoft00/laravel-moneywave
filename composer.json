@@ -1,0 +1,18 @@
+{
+    "name": "samsoft/moneywave",
+    "description": "A Laravel 5 Package for MoneyWave",
+    "type": "Librayr",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oyewole Samuel",
+            "email": "oyewoleabayomi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^5.4.0|^7.0",
+        "illuminate/support": "5.*",
+        "guzzlehttp/guzzle": "5.*|6.*"
+    }
+}
